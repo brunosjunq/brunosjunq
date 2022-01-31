@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunosjunq
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in AI and Cyber Security
 - 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on Cyber Security tools for pentesting.
+- 💞️ I’m looking to collaborate on AI and Cyber Security tools.
 - 📫 How to reach me:
   LinkedIn => https://www.linkedin.com/in/bruno-junqueira-3ab2a4135
 
